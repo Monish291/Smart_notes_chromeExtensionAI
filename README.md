@@ -3,7 +3,7 @@
 Smart Notes AI is a **productivity-focused Chrome extension** powered by **Gemini AI**. It enables you to quickly summarise, rewrite, and improve any copied text directly from your browser, making note-taking, learning, and content refinement seamless.
 
 <p align="center">
-  <img src="./assets/![Screenshot 2025-06-28 152604](https://github.com/user-attachments/assets/73f9fd36-ca39-40cb-a904-a1ae14564445)
+  <img src=""C:\Users\Gladson\Pictures\Screenshots\Screenshot 2025-06-28 152604.png"
 " width="600" alt="Smart Notes AI Banner"/> <!-- Replace with your actual banner image path -->
 </p>
 
@@ -40,7 +40,7 @@ Smart Notes AI is a **productivity-focused Chrome extension** powered by **Gemin
 ## 🖥️ **Preview**
 
 <p align="center">
-  <img src="./assets/![Screenshot 2025-06-28 152604](https://github.com/user-attachments/assets/7623fc96-d5df-43c6-b2e5-fd4169b94f05)
+  <img src=""C:\Users\Gladson\Pictures\Screenshots\Screenshot 2025-06-28 152604.png"
 " width="400" alt="Smart Notes AI Preview"/> <!-- Replace with your actual preview image path -->
 </p>
 
